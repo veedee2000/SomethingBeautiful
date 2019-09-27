@@ -1,4 +1,4 @@
-# This is the README for the overly beautiful simple code written in python3 
+# This is the README for the overrrly beautiful simple code written in python3 
 
 ## Libraries needed :- 
 
